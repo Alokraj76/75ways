@@ -16,7 +16,7 @@ A full-stack web application built using **React, Node.js, Express.js, and Mongo
 ├── frontend/
 └── backend/
 ```
-
+Live = https://educonnect-f.onrender.com/
 ## Setup
 
 ### 1. Clone Repository
@@ -87,3 +87,4 @@ REACT_APP_BASE_URL=your_backend_url
 
 **Alok Raj**
 GitHub: https://github.com/Alokraj76
+
