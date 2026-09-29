@@ -1,6 +1,7 @@
 # 75ways
 
 A full-stack web application built using **React, Node.js, Express.js, and MongoDB**.
+Live = https://educonnect-f.onrender.com/
 
 ## Tech Stack
 
@@ -16,7 +17,6 @@ A full-stack web application built using **React, Node.js, Express.js, and Mongo
 ├── frontend/
 └── backend/
 ```
-Live = https://educonnect-f.onrender.com/
 ## Setup
 
 ### 1. Clone Repository
