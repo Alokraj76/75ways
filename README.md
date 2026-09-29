@@ -1,1 +1,1 @@
-URL = https://educonnect-f.onrender.com/
+Website URL = https://educonnect-f.onrender.com/
